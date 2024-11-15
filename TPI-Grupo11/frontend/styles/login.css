@@ -1,0 +1,30 @@
+body{
+    background-image: url('../assets/wallpaper.jpg');
+}
+
+main{
+    min-height: 88.5vh;
+    margin: auto;
+    display: flex;
+    width: 100%;
+}
+.container{
+    margin: auto;
+    padding: 50px;
+    border-radius: 40px;
+    max-width: 600px;
+}
+.form-box label, .form-box input{
+    font-size: 1.3rem;
+}
+.form-box .btn-container{
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+.btn-container button{
+    font-size: 1.3rem;
+}

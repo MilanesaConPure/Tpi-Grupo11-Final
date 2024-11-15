@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrar Jugadores</title>
+    <link rel="shortcut icon" href="/assets/ilustracion-vector-plano-icono-pelota-futbol-fondo_721813-1221.avif">
+    <link rel="stylesheet" href="./styles/general-styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="./styles/crearJugadores.css">
+</head>
+<body>
+    <nav class="menu">
+        <ul>
+            <li class="nav-item">
+                <p id="navtitle"><a href="/index.html">GX2</a></p>
+            </li>
+            <li class="nav-item">
+                <a href="/jugadores.html">Jugadores</a>
+            </li>
+            <li class="drop-down">
+                <a href="/equipos.html">Equipos</a>
+            </li>
+            <li>
+                <a href="/acerca-de.html">Acerca de</a>
+            </li>
+        </ul>
+        <ul>
+            <li class="nav-item">
+                <a href="dashboard.html" class="nav-link active text-light" aria-current="page">
+                    <p>Volver</p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active text-light" aria-current="page">
+                    <p id="login"></p>
+                </a>
+            </li>
+        </ul>
+        <div id="menutoggle">
+            <i class="fa fa-bars"></i>
+        </div>
+    </nav>
+
+    <main class="container d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+        <div class="main-content d-flex align-items-center">
+            <!-- Logo a la izquierda del formulario -->
+            <div class="logo-container">
+                <img src="./assets/premierLeague.png" alt="Logo" class="logo-image">
+            </div>
+
+            <!-- Formulario de registro -->
+            <div class="card p-4 form-container">
+                <h1 class="text-center text-dark">Registrar Jugador</h1>
+                <form id="crearJugadorForm" class="mt-4">
+                    <div class="mb-3">
+                        <label for="nombre" class="form-label text-dark">Nombre Completo:</label>
+                        <input type="text" id="nombre" name="idPersona" class="form-control" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="fecNac" class="form-label text-dark">Fecha de Nacimiento:</label>
+                        <input type="date" id="fecNac" name="idPersona" class="form-control" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="nroCamiseta" class="form-label text-dark">Número de Camiseta:</label>
+                        <input type="number" id="nroCamiseta" name="nroCamiseta" class="form-control" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="idPosicion" class="form-label text-dark">Posición:</label>
+                        <select id="idPosicion" name="idPosicion" class="form-select" required></select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="idLiga" class="form-label text-dark">Liga:</label>
+                        <select id="idLiga" name="idLiga" class="form-select" required></select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="idEquipo" class="form-label text-dark">Equipo:</label>
+                        <select id="idEquipo" name="idEquipo" class="form-select" required></select>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Registrar Jugador</button>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/jwt-decode@3.1.2/build/jwt-decode.min.js"></script>
+    <script src="./javascript/crearJugadores.js"></script>
+    <script src="./javascript/isLogin.js"></script>
+   

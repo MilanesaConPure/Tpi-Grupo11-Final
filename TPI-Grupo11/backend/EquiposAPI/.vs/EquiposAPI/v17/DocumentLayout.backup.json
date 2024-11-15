@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\personas\\personasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\personas\\personasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\jugadores\\jugadoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\jugadores\\jugadoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\equipos\\equiposrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\equipos\\equiposrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\models\\equiposligasinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\models\\equiposligasinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\equiposligasinfo\\equiligainforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\equiposligasinfo\\equiligainforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\equiposligasinfo\\iequiligainforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\equiposligasinfo\\iequiligainforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\personas\\ipersonasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\personas\\ipersonasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\equipos\\iequiposrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\equipos\\iequiposrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\controllers\\equiligainfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\controllers\\equiligainfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\models\\equipocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\models\\equipocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\controllers\\jugadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\controllers\\jugadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\jugadores\\ijugadoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\jugadores\\ijugadoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\ligas\\iligasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\ligas\\iligasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\controllers\\posicioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\controllers\\posicioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\controllers\\ligascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\controllers\\ligascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\models\\posiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\models\\posiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\usuario\\downloads\\tpi-grupo11 funciona todo - copiaa\\backend\\equiposapi\\produccionback\\repositories\\ligas\\ligasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED316D43-2819-4362-82CF-2E73F773FD2A}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\ligas\\ligasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquiposRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Equipos\\EquiposRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Equipos\\EquiposRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Equipos\\EquiposRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Equipos\\EquiposRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:34:14.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\appsettings.json",
+              "RelativeDocumentMoniker": "ProduccionBack\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\appsettings.json",
+              "RelativeToolTip": "ProduccionBack\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T23:46:24.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\efpt.config.json",
+              "RelativeDocumentMoniker": "ProduccionBack\\efpt.config.json",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\efpt.config.json",
+              "RelativeToolTip": "ProduccionBack\\efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T01:48:20.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquiposLigasInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Models\\EquiposLigasInfo.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Models\\EquiposLigasInfo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Models\\EquiposLigasInfo.cs",
+              "RelativeToolTip": "ProduccionBack\\Models\\EquiposLigasInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:50:17.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquiLigaInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\EquiposLigasInfo\\EquiLigaInfoRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\EquiposLigasInfo\\EquiLigaInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\EquiposLigasInfo\\EquiLigaInfoRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\EquiposLigasInfo\\EquiLigaInfoRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:04:31.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JugadoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Jugadores\\JugadoresRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Jugadores\\JugadoresRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Jugadores\\JugadoresRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Jugadores\\JugadoresRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:18:04.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Personas\\PersonasRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Personas\\PersonasRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Personas\\PersonasRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Personas\\PersonasRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:06:14.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "ProduccionBack\\Utils\\DataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:48:14.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPersonasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Personas\\IPersonasRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Personas\\IPersonasRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Personas\\IPersonasRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Personas\\IPersonasRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:24:41.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Models\\Personas.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Models\\Personas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Models\\Personas.cs",
+              "RelativeToolTip": "ProduccionBack\\Models\\Personas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:05:44.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEquiLigaInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\EquiposLigasInfo\\IEquiLigaInfoRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\EquiposLigasInfo\\IEquiLigaInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\EquiposLigasInfo\\IEquiLigaInfoRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\EquiposLigasInfo\\IEquiLigaInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:03:34.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquiLigaInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\EquiLigaInfoController.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Controllers\\EquiLigaInfoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\EquiLigaInfoController.cs",
+              "RelativeToolTip": "ProduccionBack\\Controllers\\EquiLigaInfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:25:39.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EquipoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Models\\EquipoContext.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Models\\EquipoContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Models\\EquipoContext.cs",
+              "RelativeToolTip": "ProduccionBack\\Models\\EquipoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:50:46.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEquiposRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Equipos\\IEquiposRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Equipos\\IEquiposRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Equipos\\IEquiposRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Equipos\\IEquiposRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:54:16.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EquiposController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\EquiposController.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Controllers\\EquiposController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\EquiposController.cs",
+              "RelativeToolTip": "ProduccionBack\\Controllers\\EquiposController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwDgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:41:57.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JugadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\JugadoresController.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Controllers\\JugadoresController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\JugadoresController.cs",
+              "RelativeToolTip": "ProduccionBack\\Controllers\\JugadoresController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:53:20.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IJugadoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Jugadores\\IJugadoresRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Jugadores\\IJugadoresRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Jugadores\\IJugadoresRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Jugadores\\IJugadoresRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:14:39.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Program.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Program.cs",
+              "RelativeToolTip": "ProduccionBack\\Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAWwGoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:00:38.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "ProduccionBack\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:49:01.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ILigasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Ligas\\ILigasRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Ligas\\ILigasRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Ligas\\ILigasRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Ligas\\ILigasRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:57:11.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LigasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Ligas\\LigasRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Ligas\\LigasRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Repositories\\Ligas\\LigasRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Ligas\\LigasRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:57:56.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PosicionController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\PosicionController.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Controllers\\PosicionController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\PosicionController.cs",
+              "RelativeToolTip": "ProduccionBack\\Controllers\\PosicionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:36:28.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Posiciones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Models\\Posiciones.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Models\\Posiciones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Models\\Posiciones.cs",
+              "RelativeToolTip": "ProduccionBack\\Models\\Posiciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:09:48.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LigasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\LigasController.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Controllers\\LigasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TPI-Grupo11 FUNCIONA TODO - COPIAA\\backend\\EquiposAPI\\ProduccionBack\\Controllers\\LigasController.cs",
+              "RelativeToolTip": "ProduccionBack\\Controllers\\LigasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:56:20.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
